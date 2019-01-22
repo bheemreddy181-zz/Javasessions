@@ -1,4 +1,4 @@
-package JavaSessions;
+package Strings;
 
 public class StringManipulation {
 

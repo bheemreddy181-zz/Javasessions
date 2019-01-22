@@ -1,4 +1,4 @@
-package JavaSessions;
+package DecisionMaking;
 
 public class IfElse {
 

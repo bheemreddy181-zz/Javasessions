@@ -1,4 +1,4 @@
-package JavaSessions;
+package Loops;
 
 public class LoopsConcept {
 

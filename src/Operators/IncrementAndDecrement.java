@@ -1,4 +1,4 @@
-package JavaSessions;
+package Operators;
 
 public class IncrementAndDecrement {
 

@@ -12,7 +12,7 @@ public class CalendarSelectTest {
 
 	public static void main(String[] args) throws InterruptedException {
 
-		System.setProperty("webdriver.chrome.driver", "/Users/naveenkhunteta/Downloads/chromedriver");
+		System.setProperty("webdriver.chrome.driver", "/Users/bvennapureddy/Downloads/chromedriver");
 
 		WebDriver driver = new ChromeDriver(); // launch chrome
 

@@ -1,8 +1,12 @@
-package JavaSessions;
+package Arrays;
 
 public class StaticArray {
 
 	public static void main(String args[]) {
+		
+		//ArrayName : Array name can be any name you like to choose. Try making it more logical & meaningful. 
+		//I always follow a pattern in my code for naming variable. Like for string variables I name my variable starting with small ‘s‘, 
+		//for integer variable I start it with small ‘i‘ and for array I start it with small ‘a‘.
 
 		//limitations of array:
 		//1. size is fixed: static array : to overcome this problem, we use dynamic array or ArrayList

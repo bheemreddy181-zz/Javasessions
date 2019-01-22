@@ -1,4 +1,4 @@
-package JavaSessions;
+package DataTypesAndVariables;
 
 //hi this is my first java code
 /*hi this is

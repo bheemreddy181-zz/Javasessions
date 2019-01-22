@@ -4,16 +4,16 @@ import java.util.concurrent.TimeUnit;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.firefox.FirefoxDriver;
 
 public class ElementVisibilityTest {
 
 	public static void main(String[] args) {
 
 		
-		System.setProperty("webdriver.chrome.driver", "/Users/naveenkhunteta/Downloads/chromedriver");
+		System.setProperty("webdriver.gecko.driver", "/Users/bvennapureddy/Desktop/TRAINING/geckodriver");
 
-		WebDriver driver = new ChromeDriver(); // launch chrome
+		WebDriver driver = new FirefoxDriver(); // launch chrome
 
 		driver.manage().window().maximize(); // maximize window
 		driver.manage().deleteAllCookies(); // delete all the cookies
